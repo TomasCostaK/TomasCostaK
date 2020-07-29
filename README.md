@@ -28,8 +28,6 @@
 </h4>
 </div>
 
-<br />
-
 <!--
 <div><p>The projects I am currently working on: </p></div>
 
