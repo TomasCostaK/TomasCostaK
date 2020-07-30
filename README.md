@@ -43,5 +43,5 @@
 
 ![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
 <br />
-Template credit to: https://github.com/ApurvShah007
+Template credit to: https://github.com/kautukkundan/Awesome-Profile-README-templates
 <br />
