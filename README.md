@@ -43,5 +43,8 @@
 
 ![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
 <br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+
 Template credit to: https://github.com/kautukkundan/Awesome-Profile-README-templates
 <br />
