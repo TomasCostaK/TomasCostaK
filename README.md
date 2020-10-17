@@ -20,22 +20,12 @@
 <p>
 
 - 🔭 I’m currently working on **my portfolio**
-- 🌱 I’m currently learning **Neural Networks, Django, DiscordJS**
+- 📚 I’m currently learning **Neural Networks, Dimension Reduction Techniques and Algorithm Efficiency**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
-- ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 </h4>
 </div>
-
-<!--
-<div><p>The projects I am currently working on: </p></div>
-
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic_trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=ApurvShah007.github.io)](https://github.com/ApurvShah007/ApurvShah007.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
--->
 
 <br />
 
@@ -45,6 +35,4 @@
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
-
-Template credit to: https://github.com/kautukkundan/Awesome-Profile-README-templates
 <br />
