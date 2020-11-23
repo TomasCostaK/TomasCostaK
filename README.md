@@ -19,8 +19,8 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on **my portfolio**
-- 📚 I’m currently learning **Neural Networks, Dimension Reduction Techniques and Algorithm Efficiency**
+- 🔭 I’m currently working on **Smart Homes** and **Academic Projects**
+- 📚 I’m currently learning **Neural Networks, DevOps and Algorithm Efficiency**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
 
