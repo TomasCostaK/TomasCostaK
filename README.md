@@ -1,8 +1,6 @@
 ### Hello World 👋 I am [Tomás Costa](https://github.com/TomasCostaK)
 
 <div>
-  
-<br />
 <p>
 
 - 🔭 I’m currently working on **Smart Homes** and **Academic Projects** and my dissertation.
